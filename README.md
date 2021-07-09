@@ -6,13 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-{::options parse_block_html="true" /}
-
-<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
-The webcast I want to announce - [Register here][webcast-link]!
-&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
-{: .alert .alert-webcast}
-
+<!-- leave a blank line here -->
+<script src="https://gitlab.com/gitlab-org/gitlab-ce/snippets/1717978.js"></script>
+<!-- leave a blank line here -->
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
