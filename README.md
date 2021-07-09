@@ -17,7 +17,10 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-<div style="background-color:red;color:white;padding:2%;">White text, red background.</div>
+<style scoped>
+.redText {color:red;}
+</style>
+<p class="redText">Red text</p>
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
