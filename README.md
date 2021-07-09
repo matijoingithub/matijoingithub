@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 #
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
-[![CodePen Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codepen&logoColor=white&color=A52A2A)](https://www.codewars.com/users/matijoingithub)
+[![CodePen Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codepen&logoColor=white&color=800000)](https://www.codewars.com/users/matijoingithub)
 [![CodePen Badge](https://img.shields.io/badge/Sololearn-Profile-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/profile/21775668)
 
 #
