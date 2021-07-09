@@ -17,15 +17,10 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-paint.names <- c("red","light blue", "greenish", "off-white", "yellow")
-color.codes <- rabi::codes_to_colors(codes, paint.names)
- #prep the output to be displayed in a table
-color.codes <- t(do.call("cbind",color.codes))
-knitr::kable(
-  head(color.codes, n = 10L), 
-  col.names = c("Head","Thorax","R. Abdomen","L. Abdomen"), 
-  align = "c", caption = "ID paint sequences for ants")
-
+<p style="color:red;">Red text</p>
+<p style="color:#ff0000;">Red text (hexadecimal #ff0000)</p>
+<p style="color:#f00;">Red text (hexadecimal shorthand #f00)</p>
+<p style="color:rgb(255,0,0);">Red text (RGB value rgb(255,0,0))</p>
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
