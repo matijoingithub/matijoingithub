@@ -7,8 +7,15 @@
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+### Hello World!
 
+My name is Mati, and here are a few things I'm working on:
+
+- Happy Coding
+- Software Product Sprint
+- Google Maps
+
+I **love** nerding out about creative coding, so don't hesitate to reach out!
 
 
 <!--
