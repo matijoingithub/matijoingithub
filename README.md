@@ -6,11 +6,36 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #tanuki-purple}
+Paragraph
+{: .class .class-1 .class-2}
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Orange GitLab Tanuki
-{: #tanuki-orange}
+Paragraph
+{: #custom-id}
+
+Paragraph
+{: .class .class-1 #custom-id-1}
+
+## Heading
+{: .class .class-1 #custom-id-2}
+
+Paragraph
+{: .class #custom-id-3 style="padding-top:0" key="value"}
+
+## Heading {#hello}
+
+List:
+
+- {: .class} List item with custom class
+- {:#id} List item with custom id
+
+To a [link]{: #link}, in-line.
+
+This is a [link][google-es]{:hreflang="es"} in Spanish.
+
+[link]: https://google.com
+[google-es]: https://google.es
+
+
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
