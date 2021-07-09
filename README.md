@@ -8,14 +8,17 @@
 #
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 [![CodePen Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.codewars.com/users/matijoingithub)
-[![CodePen Badge](https://img.shields.io/badge/Sololearn-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://www.sololearn.com/profile/21775668)
+[![CodePen Badge](https://img.shields.io/badge/Sololearn-Profile-informational?style=flat&logo=codepen&logoColor=white&color=1CA2F1)](https://www.sololearn.com/profile/21775668)
 
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
 [This text link will take you to the my GitHub repositories page!](https://github.com/matijoingithub?tab=repositories)
 #
-
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
