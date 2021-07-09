@@ -17,10 +17,14 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-### GitLab Orange Heading
-{: .gitlab-orange}
 
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 <!--
