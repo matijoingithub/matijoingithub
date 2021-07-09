@@ -1,7 +1,6 @@
 
 ```diff
-- text in red
-#### _The page is under construction!_
+- #### _The page is under construction!_
 ```
 
 
