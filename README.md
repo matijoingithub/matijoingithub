@@ -1,7 +1,7 @@
 
 #### _The page is under construction!_
 ```diff 
-- text in red #### _The page is under construction!_ 
+- #### _The page is under construction!_ 
 ```
 ## Hi there!  My name is Mati.  :eyes: I'm hunting for bugs. I'm a bug hunter!
 
