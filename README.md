@@ -1,5 +1,8 @@
 
+```diff
+- text in red
 #### _The page is under construction!_
+```
 
 
 ## Hi there!  My name is Mati.  :eyes: I'm hunting for bugs. I'm a bug hunter!
@@ -9,13 +12,6 @@
 
 ### Hello World!
 
-My name is Mati, and here are a few things I'm working on:
-
-- Happy Coding
-- Software Product Sprint
-- Google Maps
-
-I **love** nerding out about creative coding, so don't hesitate to reach out!
 
 
 <!--
