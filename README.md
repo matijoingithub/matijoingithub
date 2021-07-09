@@ -20,8 +20,6 @@ I **love** nerding out about creative coding, so don't hesitate to reach out!
 ### GitLab Orange Heading
 {: .gitlab-orange}
 
-### GitLab Purple Heading
-{: .gitlab-purple
 
 
 
