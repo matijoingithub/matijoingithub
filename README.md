@@ -6,18 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-Images
-------
-
-Syntax for images is like the syntax for links, but with a `!` before:
-
-![alt text](img/1.png "image title")
-
-![](img/2.png)
-
-![ref]
-
-[ref]: img/
+[This text goes to the smashgg homepage!](https://qasv.us/)
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
