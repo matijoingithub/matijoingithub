@@ -7,14 +7,16 @@
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
 
-<style>
-.alert-info {
-  color: rgb(49,112,143) !important;
-}
-</style>
-Warnin
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
 
-#
+WARNING DESCRIPTION
+
+</div>
+</div>
+
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
