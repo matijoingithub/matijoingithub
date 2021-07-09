@@ -9,6 +9,10 @@
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
 [This text link will take you to the my GitHub repositories page!](https://github.com/matijoingithub?tab=repositories)
+#
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+#
+
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
