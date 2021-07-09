@@ -6,16 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hello World</title>
-</head>
-<body style="background-color: red; color: red">
-  <h1>HELLO WORLD!</h1>
-</body>
-</html>
+![Mattermost](../../images/icon-76x76.png "Mattermost Icon")
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
