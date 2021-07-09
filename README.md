@@ -5,23 +5,6 @@
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
 
-First Header                       | Second Header
-------------                       | -------------
-Bug 1                              | Bug 2
-Bug 1                              | Bug 4
-
-1. Item 1
-2. Item 2
-3. Item 3
- * Item 3a
- * Item 3b
-
-* Item 1
-* Item 2
- * Item 2a
- * Item 2b
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
