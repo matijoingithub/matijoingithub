@@ -7,6 +7,8 @@
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
 ![Mattermost](../../images/icon-76x76.png "Mattermost Icon")
+.. |mattermost-icon-76x76| image:: ../../images/icon-76x76.png
+.. |mattermost-icon-50x76| image:: ../../images/icon-50x76.png
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
