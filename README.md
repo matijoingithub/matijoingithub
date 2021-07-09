@@ -6,9 +6,16 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-<!-- leave a blank line here -->
-<script src="https://gitlab.com/gitlab-org/gitlab-ce/snippets/1717978.js"></script>
-<!-- leave a blank line here -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello World</title>
+</head>
+<body style="background-color: black; color: white">
+  <h1>HELLO WORLD!</h1>
+</body>
+</html>
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
