@@ -1,6 +1,7 @@
-### Hi there!  My name is Mati. �/play greatjob
+### Hi there!  My name is Mati. 
 
 ![Mati](https://user-images.githubusercontent.com/84297420/125020599-00b65980-e02e-11eb-91f5-86cee054df11.jpg)
+/play greatjob
 
 
 - 🔭 I’m currently working on ...
