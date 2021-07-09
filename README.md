@@ -1,4 +1,5 @@
-### Hi there!  My name is Mati.  :eyes:  I am watchdog - I'm watching for Bugs!
+### Hi there!  My name is Mati. 
+:eyes: I'm hunting for bugs. I'm a bug hunter!
 
 ![Mati](https://user-images.githubusercontent.com/84297420/125020599-00b65980-e02e-11eb-91f5-86cee054df11.jpg)
 
