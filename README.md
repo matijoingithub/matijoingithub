@@ -1,6 +1,8 @@
 
 #### _The page is under construction!_
-``` diff - text in red #### _The page is under construction!_ ```
+```diff 
+- text in red #### _The page is under construction!_ 
+```
 ## Hi there!  My name is Mati.  :eyes: I'm hunting for bugs. I'm a bug hunter!
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
