@@ -1,6 +1,5 @@
-### Hi there!  My name is Mati. 
+### Hi there!  My name is Mati. :thumbsup:
 
-:us:
 ![Mati](https://user-images.githubusercontent.com/84297420/125020599-00b65980-e02e-11eb-91f5-86cee054df11.jpg)
 
 
