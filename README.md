@@ -4,7 +4,16 @@
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
-  <body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
+
+You can use the diff language tag to generate some colored text:
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
