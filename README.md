@@ -1,8 +1,9 @@
 
 # The page is under construction!
 ## Hi there!  My name is Mati.  :eyes: I'm hunting for bugs. I'm a bug hunter!
-![20190613_201222_HDR](https://user-images.githubusercontent.com/84297420/125022153-e3cf5580-e030-11eb-85b5-879cc1e3dc6c.jpg)
 
+
+![image](https://user-images.githubusercontent.com/84297420/125023684-35c5aa80-e034-11eb-8302-de550913b883.png)
 
 
 First Header                       | Second Header
