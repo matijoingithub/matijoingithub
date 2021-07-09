@@ -12,7 +12,7 @@
   <meta charset="UTF-8">
   <title>Hello World</title>
 </head>
-<body style="background-color: black; color: white">
+<body style="background-color: red; color: white">
   <h1>HELLO WORLD!</h1>
 </body>
 </html>
