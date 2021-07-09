@@ -17,17 +17,9 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
-# Color Test Document
-
-## Second Heading
-
-This is a test to see how the colors work.
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
