@@ -17,10 +17,7 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-<p style="color:red;">Red text</p>
-<p style="color:#ff0000;">Red text (hexadecimal #ff0000)</p>
-<p style="color:#f00;">Red text (hexadecimal shorthand #f00)</p>
-<p style="color:rgb(255,0,0);">Red text (RGB value rgb(255,0,0))</p>
+<div style="background-color:red;color:white;padding:2%;">White text, red background.</div>
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
