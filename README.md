@@ -1,9 +1,9 @@
+
+# The page is under construction!
 ## Hi there!  My name is Mati.  :eyes: I'm hunting for bugs. I'm a bug hunter!
 ![20190613_201222_HDR](https://user-images.githubusercontent.com/84297420/125022153-e3cf5580-e030-11eb-85b5-879cc1e3dc6c.jpg)
 
-#1
-github-flavored-markdown#1
-defunkt/github-flavored-markdown#1
+
 
 First Header                       | Second Header
 ------------                       | -------------
