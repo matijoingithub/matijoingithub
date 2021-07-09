@@ -17,7 +17,14 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-$ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
+paint.names <- c("red","light blue", "greenish", "off-white", "yellow")
+color.codes <- rabi::codes_to_colors(codes, paint.names)
+ #prep the output to be displayed in a table
+color.codes <- t(do.call("cbind",color.codes))
+knitr::kable(
+  head(color.codes, n = 10L), 
+  col.names = c("Head","Thorax","R. Abdomen","L. Abdomen"), 
+  align = "c", caption = "ID paint sequences for ants")
 
 
 <!--
