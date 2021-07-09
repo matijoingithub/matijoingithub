@@ -17,19 +17,7 @@ My name is Mati, and here are a few things I'm working on:
 
 I **love** nerding out about creative coding, so don't hesitate to reach out!
 
-
-  import { Component } from '@angular/core';
-  import { MovieService } from './services/movie.service';
-
-  @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.css'],
-    providers: [ MovieService ]
-  })
-  export class AppComponent {
-    title = 'app works!';
-  }
+<span style=“color:green;”> text goes here</span>
 
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
