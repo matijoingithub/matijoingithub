@@ -13,6 +13,13 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
+#### Some useful links to make the tester's job easier
+
+
+
+- 🔭 I’m currently working on ...
+
+
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
 
