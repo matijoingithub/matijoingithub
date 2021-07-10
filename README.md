@@ -23,6 +23,7 @@
 - [**Jira**](https://www.atlassian.com/software/jira/) - Jira Software is built for every member of your software team to plan, track, and release great software
 - [**JSON**](https://jsonformatter.curiousconcept.com/#/) - JSON (JavaScript Object Notation) is a language-independent open data format that uses human-readable text to express data objects consisting of attribute-value pairs
 - [**JSONLint**](https://jsonlint.com) - JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
+- [**JSON-e**](https://json-e.js.org/) - JSON-e is a data-structure parameterization system for embedding context in JSON objects
   
   
   
