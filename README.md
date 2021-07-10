@@ -13,10 +13,6 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
-<a href="https://github.com/matijoingithub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
-</a>
-
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
@@ -34,6 +30,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+
+<a href="https://github.com/matijoingithub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
+</a>
+
 
 <a href="https://github.com/matijoingithub">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matijoingithub&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
