@@ -8,7 +8,7 @@
 #
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 [![CodePen Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codepen&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
-[![CodePen Badge](https://img.shields.io/badge/Sololearn-Profile-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/profile/21775668)
+[![CodePen Badge](https://img.shields.io/badge/Sololearn-Profile-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
 
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
