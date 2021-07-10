@@ -9,7 +9,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 [![CodePen Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codepen&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
 [![CodePen Badge](https://img.shields.io/badge/Sololearn-SQL-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
-[![CodePen Badge](https://img.shields.io/badge/Sololearn-Python Core-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![CodePen Badge](https://img.shields.io/badge/Sololearn-JavaScript-informational?style=flat&logo=codepen&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1024/landscape/png)
 
 #
