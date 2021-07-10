@@ -14,6 +14,7 @@
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
 #### Some useful links to make the tester's job easier
+- Some suggestions on where to learn and improve yourself
 
 
 
