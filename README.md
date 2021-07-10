@@ -17,7 +17,7 @@
 
 
 
-- [*Coursera*](https://www.coursera.org/) partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
+- [**Coursera**](https://www.coursera.org/) partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
 
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
