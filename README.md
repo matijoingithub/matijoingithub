@@ -34,6 +34,7 @@
 - [**QASV.US**](https://www.coursera.org/) - Online courses QA and Programming at Silicon Valley.
 - [**Sololearn**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
+- [**Codewars**](https://www.codewars.com) - Improve your skills by training with others on real code challenges. Codewars is a collective effort by its users
   
 - 💬 I’m currently working on improving it...
 
