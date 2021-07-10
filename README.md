@@ -13,8 +13,6 @@
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
-[This text link will take you to the my GitHub repositories page!](https://github.com/matijoingithub?tab=repositories)
-#
 
 
 <!--
