@@ -6,7 +6,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 
-### Skills
+### Skills ⌚
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-SQL-informational?style=flat&logo=sololearn&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
 [![JavaScript Badge](https://img.shields.io/badge/Sololearn-JavaScript-informational?style=flat&logo=sololearn&logoColor=white&color=FFEF00)](https://www.sololearn.com/certificates/course/en/21775668/1024/landscape/png)
@@ -30,12 +30,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-⌚
-
-<img align="left" width="2px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
-<img align="left" width="2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" / href="https://youtube.com/">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/"/>
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
 
 
 
