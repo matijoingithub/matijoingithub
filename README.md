@@ -13,6 +13,10 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
+#
+[This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
+#
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #
@@ -21,11 +25,8 @@
 <a href="https://github.com/matijoingithub/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
 </a>
------------------
-#
-#
-[This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
-#
+
+
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
