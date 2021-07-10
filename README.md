@@ -19,6 +19,7 @@
 - [**Python**](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively
 - [**JavaScript**](https://www.javascript.com/) - JavaScript is a great language for coding
 - [**SQL**](https://en.wikipedia.org/wiki/SQL) - SQL (Structured Query Language) is the standard relational data management language
+- [**SQL Tutorial**](https://www.sqltutorial.org) - This SQL tutorial helps you get started with SQL quickly and effectively through many practical examples
 - [**MySQL**](https://en.wikipedia.org/wiki/MySQL) - MySQL is an open-source relational database management system (RDBMS)
 - [**Jira**](https://www.atlassian.com/software/jira/) - Jira Software is built for every member of your software team to plan, track, and release great software
 - [**JSON**](https://jsonformatter.curiousconcept.com/#/) - JSON (JavaScript Object Notation) is a language-independent open data format that uses human-readable text to express data objects consisting of attribute-value pairs
