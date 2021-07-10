@@ -17,7 +17,7 @@
 
 
 
-- 🔭 Homepage of [Coursera](https://coursera.com/)
+- 🔭 Homepage of [Coursera](https://www.coursera.org/)
 
 
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
