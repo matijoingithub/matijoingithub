@@ -12,7 +12,7 @@
 [![CodePen Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=codepen&logoColor=white&color=2B60DE)](https://coursera.org/share/0b7d55ade6be27c6abe7fcfa5047c49d)
 
 #
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
