@@ -23,8 +23,6 @@
 - [**QASV.US**](https://www.coursera.org/) - Online courses QA and Programming at Silicon Valley.
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
 
-[This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
-#
 
 #
 
@@ -59,6 +57,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+
+[This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 
 
 
