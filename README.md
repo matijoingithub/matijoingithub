@@ -31,11 +31,8 @@
 </p>
 >
 
-  <!-- retro visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
-</p>
-  
+ 
+<!-- welcome message -->
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,27 +48,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👋
 
-<!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h2>
 
-<h3>Glad to see you here!</h3>
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matijoingithub)
-
-
-<a href="https://github.com/matijoingithub/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=white" />
-</a>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=matijoingithub)
-
-<a href="https://github.com/matijoingithub/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 
