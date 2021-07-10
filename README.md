@@ -15,16 +15,14 @@
 
 #### Useful links to make the tester's job easier
   
-#### ⌚ Some suggestions on where to learn and improve yourself
-- [**Sololearn**]- [**QASV.US**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
-
+#### ⌚ Some suggestions on where to find the necessary programs and tools for successful testing
+- [**Python**](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
   
 #### ⌚ Some suggestions on where to learn and improve yourself
 - [**QASV.US**](https://www.coursera.org/) - Online courses QA and Programming at Silicon Valley.
+- [**Sololearn**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
 
-
-#
 
 ### 📊 Mati's GitHub Stats
 
