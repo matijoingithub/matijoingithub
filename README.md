@@ -25,8 +25,7 @@
 - [**JSONLint**](https://jsonlint.com) - JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format
 - [**JSON-e**](https://json-e.js.org/) - JSON-e is a data-structure parameterization system for embedding context in JSON objects
 - [**Curl**](https://reqbin.com/curl) - Curl is a popular command-line tool for transferring data to or from a server. Test APIs with ReqBin Online Curl Client
-  
-  
+- [**Selenium**](https://www.selenium.dev) - Selenium automates browsers. That's it! (Selenium Webdriver, Selenium IDE, Selenium Grid
   
 - 💬 I’m currently working on improving it...
   
