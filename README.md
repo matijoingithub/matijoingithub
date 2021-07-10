@@ -17,6 +17,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Matis's GitHub Stats" />
 </a>
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
