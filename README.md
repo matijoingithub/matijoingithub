@@ -13,6 +13,9 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/verify/ADU8JW8U5YRS)
+ [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://coursera.org/share/0b7d55ade6be27c6abe7fcfa5047c49d) 
+  
+  https://coursera.org/share/0b7d55ade6be27c6abe7fcfa5047c49d
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
