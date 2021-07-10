@@ -17,6 +17,7 @@
   
 #### ⌚ Some suggestions on where to find the necessary programs and tools for successful testing
 - [**Python**](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
+- [**JavaScript**](https://www.javascript.com/) - JavaScript is a great language for coding
   
 - 💬 I’m currently working on improving it...
   
