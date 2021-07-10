@@ -6,22 +6,26 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 
-#### My courses and certificate's
+#### My courses and certificate's:
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-SQL-informational?style=flat&logo=sololearn&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
 [![JavaScript Badge](https://img.shields.io/badge/Sololearn-JavaScript-informational?style=flat&logo=sololearn&logoColor=white&color=FFEF00)](https://www.sololearn.com/certificates/course/en/21775668/1024/landscape/png)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
-#### Useful links to make the tester's job easier
+#### Useful links to make the tester's job easier:
   
 #### ⌚ Some suggestions on where to find the necessary programs and tools for successful testing
 - [**Python**](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
+  
+- 💬 I’m currently working on ...
   
 #### ⌚ Some suggestions on where to learn and improve yourself
 - [**QASV.US**](https://www.coursera.org/) - Online courses QA and Programming at Silicon Valley.
 - [**Sololearn**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
+  
+- 💬 I’m currently working on ...
 
 
 ### 📊 Mati's GitHub Stats
@@ -29,8 +33,6 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Mati+Lehissaar's+GitHub+Stats&show_icons=true"
 />
-
- - 🔭 I’m currently working on ...
  
   
 <!-- retro visitor counter -->
