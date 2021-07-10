@@ -17,8 +17,6 @@
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 #
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 #
 
 ### 📊 Mati's GitHub Stats
