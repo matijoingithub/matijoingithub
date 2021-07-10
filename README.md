@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 Homepage of [Coursera](https://coursera.com/)
 
 
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
@@ -39,7 +39,6 @@
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
 
-- 🔭 I’m currently working on ...
 
  
 <!-- welcome message -->
