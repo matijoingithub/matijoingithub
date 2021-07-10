@@ -21,13 +21,8 @@
 
 ### 📊 Mati's GitHub Stats
 <a href="https://github.com/matijoingithub/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=white" />
 </a>
-
-<a href="https://github.com/matijoingithub/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
-</a>
-
 
 
 
@@ -45,6 +40,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+
+
+<a href="https://github.com/matijoingithub/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
