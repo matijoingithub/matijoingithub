@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h2>
                   
-### My name is Mati. I'm hunting for bugs. I'm a Bug Hunter! :beetle:
+### Glad to see you here. My name is Mati. I'm hunting for bugs. I'm a Bug Hunter! :beetle:
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
@@ -29,11 +29,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
-
-<!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h2>
-
-<h3>Glad to see you here!</h3>
+>
 
   <!-- retro visitor counter -->
 <p align="center"> 
@@ -54,6 +50,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h2>
+
+<h3>Glad to see you here!</h3>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matijoingithub)
 
