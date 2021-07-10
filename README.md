@@ -47,7 +47,6 @@
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
 
-
  
 <!-- welcome message -->
 <!--
