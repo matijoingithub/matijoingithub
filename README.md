@@ -1,6 +1,6 @@
 
 ### Hello World!
-### Hi there!  My name is Mati. I'm hunting for bugs. I'm a Bug Hunter! :loop:
+### Hi there!  My name is Mati. I'm hunting for bugs. I'm a Bug Hunter! :loop: :bug: :beetle:
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
