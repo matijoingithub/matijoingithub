@@ -13,11 +13,14 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
 [![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
-#### Some useful links to make the tester's job easier
+#### Useful links to make the tester's job easier
+  
 #### ⌚ Some suggestions on where to learn and improve yourself
 
 
-
+  
+#### ⌚ Some suggestions on where to learn and improve yourself
+- [**CQASV.US**](https://www.coursera.org/) - Online courses QA and Programming at Silicon Valley.
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
 
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
