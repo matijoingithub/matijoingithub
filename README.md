@@ -20,7 +20,7 @@
 - [**JavaScript**](https://www.javascript.com/) - JavaScript is a great language for coding
 - [**SQL**](https://en.wikipedia.org/wiki/SQL/) - SQL (Structured Query Language) is the standard relational data management language
 - [**MySQL**](https://en.wikipedia.org/wiki/MySQL/) - MySQL is an open-source relational database management system (RDBMS)
-
+- [**Jira**](https://www.atlassian.com/software/jira/) - Jira Software is built for every member of your software team to plan, track, and release great software.
   
 - 💬 I’m currently working on improving it...
   
