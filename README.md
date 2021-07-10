@@ -21,7 +21,7 @@
 <a href="https://github.com/matijoingithub/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&show_icons=true&theme=radical" />
 </a>
-
+<!-- GitHub Stats -- >
 #
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
