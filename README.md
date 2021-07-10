@@ -16,7 +16,7 @@
 #### Useful links to make the tester's job easier
   
 #### ⌚ Some suggestions on where to learn and improve yourself
-
+- [**Sololearn**]- [**QASV.US**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
 
   
 #### ⌚ Some suggestions on where to learn and improve yourself
