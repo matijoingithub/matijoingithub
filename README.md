@@ -11,7 +11,7 @@
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-SQL-informational?style=flat&logo=sololearn&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
 [![JavaScript Badge](https://img.shields.io/badge/Sololearn-JavaScript-informational?style=flat&logo=sololearn&logoColor=white&color=FFEF00)](https://www.sololearn.com/certificates/course/en/21775668/1024/landscape/png)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-PythonCore-informational?style=flat&logo=sololearn&logoColor=white&color=4E5180)](https://www.sololearn.com/certificates/course/en/21775668/1073/landscape/png)
-[![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://coursera.org/share/0b7d55ade6be27c6abe7fcfa5047c49d)
+[![Coursera Badge](https://img.shields.io/badge/Coursera-ITSupport-informational?style=flat&logo=coursera&logoColor=white&color=2B60DE)](https://www.coursera.org/account/accomplishments/certificate/ADU8JW8U5YRS)
 
 
 #
