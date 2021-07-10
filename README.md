@@ -1,12 +1,12 @@
-<h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h3>
+<h4>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h4>
                   
-### Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:
+#### Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 
-### ⌚ Skills
+#### ⌚ My courses and certificated
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-SQL-informational?style=flat&logo=sololearn&logoColor=white&color=FFA500)](https://www.sololearn.com/certificates/course/en/21775668/1060/landscape/png)
 [![JavaScript Badge](https://img.shields.io/badge/Sololearn-JavaScript-informational?style=flat&logo=sololearn&logoColor=white&color=FFEF00)](https://www.sololearn.com/certificates/course/en/21775668/1024/landscape/png)
