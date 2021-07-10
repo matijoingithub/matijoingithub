@@ -1,6 +1,4 @@
 
-<img src="/BannerTransparent.png" alt="banner" align="center" />
-
 ### Hello World!
 ### Hi there!  My name is Mati. I'm hunting for bugs. I'm a Bug Hunter! :beetle:
 
