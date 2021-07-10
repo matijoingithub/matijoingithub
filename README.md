@@ -17,32 +17,39 @@
 
 #
 
-require("isomorphic-unfetch");
-const { promises: fs } = require("fs");
-const path = require("path");
+name: Dynamic README injection
+on:
+  schedule: # Run workflow automatically
+    # This will make it run every hour
+    - cron: "0 * * * *"
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  get-office-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
 
+      - name: Let the magic happen
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
 
-async function main() {
-    const readmeTemplate = (
-        await fs.readFile(path.join(process.cwd(), "./README.template.md"))
-    ).toString("utf-8");
+      - run: yarn
 
-    const office_quote = await (
-        await fetch("https://officeapi.dev/api/quotes/random")
-    ).json();
+      - run: node .
 
-    console.log(office_quote);
-
-
-    const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.data.content)
-        .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
-
-    await fs.writeFile("README.md", readme);
-}
-
-main();
-
+      - name: Add to git repo
+        run: |
+          git config pull.rebase false
+          git pull
+          git add .
+          git config --global user.name "Your Name"
+          git config --global user.email "Your E-Mail"
+          git commit -m "[Automated] README updated with new Office quote!"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
 #
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
