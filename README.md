@@ -46,7 +46,7 @@
 ### 📊 Mati's GitHub Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&title_color=357EC7&icon_color=FD9047&text_color=0C2233&custom_title=Mati+Lehissaar's+GitHub+Stats&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&title_color=488AC7&icon_color=FD9047&text_color=0C2233&custom_title=Mati+Lehissaar's+GitHub+Stats&show_icons=true"
 />
  
   
