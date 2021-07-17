@@ -55,6 +55,11 @@
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
 
+  <!-- retro visitor counter -->
+<p align="center"> 
+  #### Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:
+  <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
+</p>
  
 <!-- welcome message -->
 <!--
