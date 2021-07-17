@@ -59,6 +59,10 @@
 <p align="center"> 
    < **Glad to see you here! My name is Mati. I'm a Bug Hunter!** />
 </p>
+
+<p align="center"> 
+ <h4>Hi there!</h4>
+</p>
  
 <!-- welcome message -->
 <!--
