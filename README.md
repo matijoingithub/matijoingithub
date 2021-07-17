@@ -61,7 +61,7 @@
 </p>
 
 <p align="center"> 
-   < <h4>Hi there!</h4> />
+   < <h1>Plan Your Test - Test Your Plan!</h1> />
 </p>
  
 <!-- welcome message -->
