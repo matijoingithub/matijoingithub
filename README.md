@@ -61,7 +61,7 @@
 </p>
 
 <p align="center"> 
- <h4>Hi there!</h4>
+   < <h4>Hi there!</h4> />
 </p>
  
 <!-- welcome message -->
