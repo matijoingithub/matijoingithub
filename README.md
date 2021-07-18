@@ -60,10 +60,15 @@
    < **Glad to see you here! My name is Mati. I'm a Bug Hunter!** />
 </p>
 
+                                                
+<!-- retro visitor counter -->                                             
 <p align="center"> 
    < <h1>Plan Your Test - Test Your Plan!</h1> />
 </p>
  
+                                                
+                                                
+                                                
 <!-- welcome message -->
 <!--
 **matijoingithub/matijoingithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
