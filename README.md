@@ -1,5 +1,7 @@
 <h4>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h4>
-                  
+  
+<h1 align="center">Plan Your Test - Test Your Plan!</h1>                                             
+                                                         
 #### Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
