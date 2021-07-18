@@ -31,8 +31,6 @@
 - [**Selenium**](https://www.selenium.dev) - Selenium automates browsers. That's it! (*Selenium Webdriver, Selenium IDE, Selenium Grid*)
 - [**Postman**](https://www.postman.com) - The Collaboration Platform for API Development
   
-- 💬 I’m currently working on improving it...
-  
 #### ⌚ Some suggestions on where to learn and improve yourself
 - [**QASV.US**](https://www.qasv.us/en) - Online courses QA and Programming at Silicon Valley.
 - [**Codeacademy**](https://www.codecademy.com/) - Join the millions learning to code with Codecademy for free. Codeacademy is invented the best system for learning to code
@@ -74,6 +72,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+- 💬 I’m currently working on improving it...
 
 [This text link will take you to the QA at Silicon Valley California homepage!](https://qasv.us/en)
 
