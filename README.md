@@ -57,7 +57,7 @@
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
      
-  ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
+  ✨<img align="center" src="http://profile-counter.glitch.me/matijoingithub/count.svg"/>
                                  
                                                 
 <!-- welcome message -->
