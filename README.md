@@ -57,7 +57,7 @@
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
                                 
-                                                
+curl https://profile-counter.glitch.me/{matijoingithub}/count.svg                                          
                                                 
 <!-- welcome message -->
 <!--
