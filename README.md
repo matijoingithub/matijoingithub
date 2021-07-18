@@ -56,8 +56,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
- 
-  <a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=22&id=1626568374" border=0 alt="web counter"></a><br><a href="http://guestscounter.com" style="font-size:9px;">web counter</a><br>
+
                                                 
 <!-- welcome message -->
 <!--
