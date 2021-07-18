@@ -56,8 +56,6 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
-     
-<img align="center" src="http://profile-counter.glitch.me/matijoingithub/count.svg"/>
                                  
                                                 
 <!-- welcome message -->
