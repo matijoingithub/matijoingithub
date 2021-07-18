@@ -5,6 +5,9 @@
 <h1 align="center">Plan Your Test - Test Your Plan!</h1>
 
 ![image](https://user-images.githubusercontent.com/84297420/125023753-5e4da480-e034-11eb-920f-045f4b46e3c9.png)
+  
+![typpytkitsas](https://user-images.githubusercontent.com/84297420/126077299-0d85b09e-fbde-4172-a914-41216a139334.jpg)
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
 
