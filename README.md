@@ -45,8 +45,7 @@
 - 💬 I’m currently working on improving it...
 
 <p align="center"> 
-### 📊 Mati's GitHub Stats
-  <h2 align="center">Mati's GitHub Stats</h2>
+  <h2 align="center">📊 Mati's GitHub Stats</h2>
 </p>
 
 <p align="center">   
