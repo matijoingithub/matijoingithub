@@ -56,8 +56,9 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
-                                
-curl https://profile-counter.glitch.me/{matijoingithub}/count.svg                                          
+     
+  ✨<img align="right" src="http://profile-counter.glitch.me/lowking/count.svg"/>
+                                 
                                                 
 <!-- welcome message -->
 <!--
