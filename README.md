@@ -50,25 +50,13 @@
 <img
   src="https://github-readme-stats.vercel.app/api?username=matijoingithub&count_private=true&title_color=6495ED&icon_color=FD9047&text_color=0C2233&custom_title=Mati+Lehissaar's+GitHub+Stats&show_icons=true"
 />
- 
+
   
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{matijoingithub}/count.svg" />
 </p>
-
-  <!-- retro visitor counter -->
-<p align="center"> 
-   < **Glad to see you here! My name is Mati. I'm a Bug Hunter!** />
-</p>
-
-                                                
-<!-- retro visitor counter -->                                             
-<p align="center"> 
-   <h1>Plan Your Test - Test Your Plan!</h1>
-</p>
- 
-<h1 align="center">Plan Your Test - Test Your Plan!</h1>                                             
+                                
                                                 
                                                 
 <!-- welcome message -->
