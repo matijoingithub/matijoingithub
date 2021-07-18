@@ -39,11 +39,9 @@
 - [**Codewars**](https://www.codewars.com) - Improve your skills by training with others on real code challenges. Codewars is a collective effort by its users
 - [**HackerRank**](https://www.hackerrank.com/dashboard) - Stand out from the crowd. Take the HackerRank Skills Certification Test and make you profile stand out
 - [**W3School**](https://www.w3schools.com) - W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding
-  
-- 💬 I’m currently working on improving it...
 
 <p align="center"> 
-  <h2 align="center">📊 Mati's GitHub Stats</h2>
+  <h3 align="center">📊 Mati's GitHub Stats</h3>
 </p>
 
 <p align="center">   
