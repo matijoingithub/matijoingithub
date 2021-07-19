@@ -1,6 +1,6 @@
-<h3 align="center">Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h3>
+<h4 align="center">Hello World!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h4>
   
-<h3 align="center">Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:</h3>
+<h4 align="center">Glad to see you here! My name is Mati. I'm a Bug Hunter! :beetle:</h4>
   
 ![typpytkitsas](https://user-images.githubusercontent.com/84297420/126077299-0d85b09e-fbde-4172-a914-41216a139334.jpg)
 
