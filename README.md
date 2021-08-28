@@ -4,7 +4,7 @@
   
 ![typpytkitsas](https://user-images.githubusercontent.com/84297420/126077299-0d85b09e-fbde-4172-a914-41216a139334.jpg)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mati-lehissaar/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/matilehissaar/)
 
 #### My courses and certificate's:
 [![Codewars Badge](https://img.shields.io/badge/Codewars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=b1361e)](https://www.codewars.com/users/matijoingithub)
