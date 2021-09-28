@@ -30,7 +30,6 @@
 - [**Postman**](https://www.postman.com) - The Collaboration Platform for API Development
   
 #### ⌚ Some suggestions on where to learn and improve yourself
-- [**QASV.US**](https://www.qasv.us/en) - Online courses QA and Programming at Silicon Valley.
 - [**Codeacademy**](https://www.codecademy.com/) - Join the millions learning to code with Codecademy for free. Codeacademy is invented the best system for learning to code
 - [**Sololearn**](https://www.coursera.org/) - Online courses designed by experts with real-world practice. Learn on the web or on the go. 
 - [**Coursera**](https://www.coursera.org/) - partners with more than 200 leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.
